@@ -1,6 +1,6 @@
 {
   "pack": 12,
-  "sizeMB": 272.8735017776489,
+  "sizeMB": 273.88867950439453,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -3820,6 +3820,7 @@
     "smf-v-1.7_202110",
     "smf1lm",
     "smf2-mods",
-    "sock_and_awe"
+    "sock_and_awe",
+    "slingette"
   ]
 }
